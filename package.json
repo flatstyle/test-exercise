@@ -1,0 +1,15 @@
+{
+  "name": "auto-tests",
+  "version": "1.0.0",
+  "description": "Tests for Wordpress.com/me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/cypress open"
+  },
+  "author": "Steven B",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.2.0"
+  }
+}
